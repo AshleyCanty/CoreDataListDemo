@@ -7,5 +7,4 @@ This project allows you to create, fetch, update, and delete person objects (CRU
 
 
 # GIF Example
-![]
-(https://github.com/AshleyCanty/CoreDataListDemo/blob/main/CoreDataListDemo-example.gif)
+![Demo](https://github.com/AshleyCanty/CoreDataListDemo/blob/main/CoreDataListDemo-example.gif)
