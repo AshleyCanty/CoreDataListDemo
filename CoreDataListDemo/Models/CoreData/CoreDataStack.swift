@@ -8,7 +8,7 @@
 import Foundation
 import CoreData
 
-class CoreDataStack: ObservableObject {
+final class CoreDataStack: ObservableObject {
     static let shared = CoreDataStack()
     
     private let moduleName = "CoreDataListDemo"
