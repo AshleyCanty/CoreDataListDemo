@@ -8,14 +8,7 @@
 import Foundation
 import CoreData
 
-enum PersonProviderErrorMessage: String {
-    case fetchPeople = "retrieve people"
-    case createPerson = "create person"
-    case updatePerson = "update person"
-    case deletePerson = "delete person"
-}
-
-class PersonProvider {
+final class PersonProvider {
     
     static let shared = PersonProvider()
     
